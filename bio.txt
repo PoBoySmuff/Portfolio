@@ -1,0 +1,5 @@
+Headline:
+Hi, I'm Thomas. I'm an aspiring web developer, an avid gamer, and a former cute baby.
+
+Bio:
+I am a current student of the Front End Web Development bootcamp at Bloc. 
